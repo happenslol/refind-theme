@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Apply from mkfont.sh (by Roderick W. Smith)
 # 
